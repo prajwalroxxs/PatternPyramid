@@ -1,3 +1,6 @@
+#Prajwal Srivastava
+#Week 1 assignment
+
 rows = int(input("Enter the number of rows: "))
 
 print("\nLower Triangular Pattern:")
